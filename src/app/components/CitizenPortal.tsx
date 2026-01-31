@@ -162,7 +162,7 @@ export default function CitizenPortal({ onBackToHome }: CitizenPortalProps) {
             <div className="flex items-center space-x-2">
               <MapPin className="h-8 w-8 text-blue-600 dark:text-blue-400" />
               <div>
-                <h1 className="text-2xl font-bold bg-gradient-to-r from-orange-600 via-white to-green-600 dark:from-orange-400 dark:via-white dark:to-green-400 bg-clip-text text-transparent">
+                <h1 className="text-2xl font-bold text-orange-600 dark:text-orange-400">
                   JANMARG
                 </h1>
                 <p className="text-[10px] text-gray-600 dark:text-gray-400">Citizen Portal</p>

@@ -94,7 +94,7 @@ export default function ModernLanding({ onSelectPortal }: ModernLandingProps) {
                 </div>
               </div>
               <div>
-                <h1 className="text-2xl font-bold bg-gradient-to-r from-orange-600 via-white to-green-600 dark:from-orange-400 dark:via-white dark:to-green-400 bg-clip-text text-transparent">
+                <h1 className="text-2xl font-bold text-orange-600 dark:text-orange-400">
                   JANMARG
                 </h1>
                 <p className="text-xs text-gray-600 dark:text-gray-400">AI-Powered Civic Intelligence Platform</p>
